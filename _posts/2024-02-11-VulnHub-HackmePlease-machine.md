@@ -162,7 +162,7 @@ Y pues xd no lo tienen en la parte abajo tienen expuestos asi que acederemosutil
 
 ![](/assets/images/msql.PNG)
 
-ya andentro comenzaremos a ver las bases de datos y las tablas para ver que encontramos
+ya a dentro comenzaremos a ver las bases de datos y las tablas para ver que encontramos
 
 ![](/assets/images/show database.PNG)
 
